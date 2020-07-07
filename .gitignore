@@ -1,0 +1,8 @@
+*.pyc
+*.log
+*.swp
+*~
+.DS_Store
+__pycache__/
+/.push
+/.idea/
